@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Mohammad Yaaghubi](https://github-profile-trophy.vercel.app/?username=myaaghubi&theme=nord&margin-w=15&margin-h=15&no-bg=true&rank=-C)]
+
 <!--
 **myaaghubi/myaaghubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
