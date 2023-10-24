@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Mohammad Yaaghubi](https://github-profile-trophy.vercel.app/?username=myaaghubi&theme=nord&margin-w=15&margin-h=15&no-bg=true&rank=-C)
+![Mohammad Yaaghubi](https://github-profile-trophy.vercel.app/?username=myaaghubi&theme=nord&margin-w=15&margin-h=15&no-bg=true&rank=-A,-B,-C)
 
 🔭 I’m currently working on [PHP-Frameworks-Bench](https://github.com/myaaghubi/PHP-Frameworks-Bench/)
 
