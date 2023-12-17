@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on [PHP-Frameworks-Bench](https://github.com/myaaghubi/PHP-Frameworks-Bench/)
 
-📺 Make sure to check [Youtube](https://youtube.com/@echo_world/) channel
+📺 Make sure to check [Youtube](https://youtube.com/@DeskNook) channel
 
 <!--
 **myaaghubi/myaaghubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
